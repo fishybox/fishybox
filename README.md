@@ -1,5 +1,3 @@
 i follow random strangers for fun
-<!---
-fishybox/fishybox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e63 55755a473933626d7876595751695858302e75664b6f754645754f57774a4d6f625066635342744776452d4d73645349366e50556a6a71745253656230](https://github.com/fishybox/fishybox/assets/145895442/7ec8b9c6-d112-4af1-8b91-873fa8260c31)
+
